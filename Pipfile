@@ -15,6 +15,7 @@ xlrd = "*"
 python-snappy = "*"
 pytest = "*"
 flake8 = "*"
+pyspark = "*"
 
 [requires]
 python_version = "3.7"

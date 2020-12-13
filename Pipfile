@@ -16,6 +16,7 @@ python-snappy = "*"
 pytest = "*"
 flake8 = "*"
 pyspark = "*"
+black = "*"
 
 [requires]
 python_version = "3.7"
